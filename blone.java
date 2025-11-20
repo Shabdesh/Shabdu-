@@ -2,8 +2,8 @@
 /**
  * Write a description of class blone here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (rohald dhal)
+ * @version (vs3.1)
  */
 public class blone
 
